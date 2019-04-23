@@ -1,7 +1,7 @@
 
-# Avengers Endgame Spoiler : You will not get to see it - Chrome Extension <img src="Avengers.png"  width="64"/>
+# Avengers Endgame Spoiler : You will not get to see it
 
-This extension will save you from reading any Avengers Endgame Spoilers. <br/>
+This Chrome extension will save you from reading any Avengers Endgame Spoilers. <br/>
 
 
 
@@ -15,8 +15,8 @@ This extension will save you from reading any Avengers Endgame Spoilers. <br/>
 - Go to `chrome://extensions`
 - Click on `Load Unpacked` which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
-- An icon <img src="icon-stark.png" alt="🐺" width="64"/> should appear besides your Chrome Search bar.
-- That's all :D Try opening any [Avengers Endgame Spoiler]).
+- An icon <img src="icon-stark.png" width="64"/> should appear besides your Chrome Search bar.
+- That's all :D Try opening any [Avengers Endgame Spoiler].
 
 # Why this Chrome Extension exists?
 When I created this extension, its purpose was:
