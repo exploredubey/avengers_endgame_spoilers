@@ -1,5 +1,5 @@
 
-# :sparkles: Avengers Endgame Spoiler : You will not get to see it - Chrome Extension <img src="Avengers.png"  width="64"/>
+# Avengers Endgame Spoiler : You will not get to see it - Chrome Extension <img src="Avengers.png"  width="64"/>
 
 This extension will save you from reading any Avengers Endgame Spoilers. <br/>
 
