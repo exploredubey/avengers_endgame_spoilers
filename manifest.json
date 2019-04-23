@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Avengers Endgame Spoilers",
+  "description": "Trying to help you from Avengers Endgame Spoiler.",
+  "version": "0.1",
+  "icons": {
+          "96": "Avengers.png" },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["jquery-3.4.0.min.js", "remove_spoiler.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
